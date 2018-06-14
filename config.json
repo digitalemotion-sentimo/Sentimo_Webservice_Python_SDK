@@ -1,0 +1,5 @@
+{
+	"url": "target service address" ,
+	"token" : "registered token",
+	"timeout": 5
+}
